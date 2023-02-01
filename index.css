@@ -6,7 +6,7 @@ body {
 }
 
 .logo-container {
-  margin: 20px 0;
+  margin: 40px 0;
   text-align: center;
 }
 
@@ -15,15 +15,15 @@ body {
 }
 
 .waiting-message {
-  font-size: 38px;
-  margin: 20px 0;
+  font-size: 45px;
+  margin: 40px 0;
   text-align: center;
   text-shadow: 2px 2px #333;
 }
 
 .countdown {
-  font-size: 24px;
-  margin: 20px 0;
+  font-size: 30px;
+  margin: 40px 0;
 }
 
 .social-icons {
