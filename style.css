@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Press Start 2P', sans-serif;
+  text-align: center;
+}
+
+.logo-container {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.logo-container img {
+  width: 200px;
+}
+
+.waiting-message {
+  font-size: 30px;
+  margin: 20px 0;
+  text-align: center;
+  text-shadow: 2px 2px #333;
+}
+
+.countdown {
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+.social-icons {
+  margin-top: 20px;
+}
+
+.social-icons a {
+  color: white;
+  font-size: 24px;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.fab {
+  font-family: 'Font Awesome 5 Brands';
+}
